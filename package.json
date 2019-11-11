@@ -1,0 +1,21 @@
+{
+  "name": "my-vue-docs",
+  "version": "0.0.1",
+  "description": "my-vue-docs",
+  "main": "index.js",
+  "authors": {
+    "name": "hzSilence",
+    "email": "15289381762@163.com"
+  },
+  "repository": "/my-vue-docs",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.0.0",
+    "@vuepress/plugin-back-to-top": "^1.0.0",
+    "@vuepress/plugin-medium-zoom": "^1.0.0"
+  }
+}
